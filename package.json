@@ -1,0 +1,20 @@
+{
+  "name": "computenoshares",
+  "version": "1.0.0",
+  "description": "A tiny CLI app to compute shares based your ESPP montly contribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel index.js --out-file indexB.js"
+  },
+  "author": "Madhukar Moogala",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
+}
