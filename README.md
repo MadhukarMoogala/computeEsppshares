@@ -10,3 +10,4 @@ node indexB.js
 ```
 
 ## Demo
+![](https://github.com/MadhukarMoogala/computeEsppshares/blob/master/media/demo.gif)
